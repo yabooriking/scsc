@@ -1,0 +1,22 @@
+<template name="record">
+
+
+    <div role="tabpanel">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">선수
+                기록</a></li>
+            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">팀 기록</a>
+            </li>
+        </ul>
+       
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">{{> playerRecord}}</div>
+            <div role="tabpanel" class="tab-pane" id="profile">{{> teamRecord}}</div>
+        </div>
+
+    </div>
+
+</template>

@@ -3135,6 +3135,12 @@
         <item url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/nan/tools/1to2.js" />
         <item url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/bcrypt/bcrypt.js" />
         <item url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/bindings/bindings.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+        <item url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
         <item url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/ms/index.js" />
         <item url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/src/vlq.js" />
         <item url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/dist/vlq.js" />
@@ -6516,6 +6522,12 @@
       <root url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/nan/tools/1to2.js" />
       <root url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/bcrypt/bcrypt.js" />
       <root url="file://C:/Program Files/.meteor/packages/npm-bcrypt/0.8.7/npm/node_modules/bindings/bindings.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+      <root url="file://C:/Program Files/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
       <root url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/ms/index.js" />
       <root url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/src/vlq.js" />
       <root url="file://C:/Program Files/.meteor/packages/babel-compiler/6.8.3/npm/node_modules/vlq/dist/vlq.js" />

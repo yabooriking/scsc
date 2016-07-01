@@ -1,1 +1,80 @@
-/* CSS declarations go here */
+
+div.nav{
+    margin-top:50px;
+}
+#carousel{
+    width:100%;
+    height:500px;
+}
+
+/*main css*/
+
+div.intro{
+    text-align: center;
+    font-size: 40px;
+    padding:10px 0;
+    margin:20px 0;
+}
+h1.intro_head
+{
+    color:gray;
+}
+a.intro_link{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+}
+/*intro css*/
+
+div.help{
+    text-align: center;
+    position:relative;
+}
+h1.help_head{
+    font-size:40px;
+    font-weight: 900;
+}
+p.explanation{
+    margin-top:40px;
+    font-size:20px;
+}
+ul.help_index{
+    list-style: none;
+}
+li.baseball_link{
+    background-color: teal;
+
+}
+li.soccer_link{
+    background-color: coral;
+}
+
+li.baseball_link , li.soccer_link{
+    display:inline-table;
+    width:250px;
+    height:300px;
+    vertical-align: text-bottom;
+
+}
+
+a.help_link{
+    font-weight: bold;
+    font-size:20px;
+    color:white;
+}
+.link_block{
+    display:table-cell;
+    vertical-align:middle;
+}
+h4{
+    font-weight:bold;
+}
+/*help css*/
+
+div #hitter_select{
+    margin-top: 40px;
+}
+
+.cap{
+    background-image:url("/cap.jpg");
+}

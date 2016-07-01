@@ -1,12 +1,19 @@
 <head>
-
     <title>Hello Meteor!</title>
-
 </head>
 
-<body>
-<div id="container">
-    <div>hello</div>
+<!--<body></body>는 iron router 패키지가 만든다.-->
+<template name="layout">
+<div class="container">
+    <div class="nav">
+    {{> navbar}}
+{{> home}}
+    </div>
+    {{> carousel}}
+<hr/>
+    {{> yield}}
+    <!--yield는 url경로에 따라 동적으로 바뀌는 템플릿-->
 </div>
+</template>
 
-</body>
+
